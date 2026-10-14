@@ -1,8 +1,8 @@
 Past Dark Jak
-By Hector · Commissioned by Minimum-Chip-2166
+By hector.studio (https://hector.studio), commissioned by Minimum-Chip-2166.
 
 Lore-accurate Dark Jak skin in the original TPL outfit.
-Cosmetic only; no Dark Eco powers.
+Cosmetic only. No Dark Eco powers or transformation mechanics.
 
 INSTALLATION
 Requires OpenGOAL and an installed copy of Jak and Daxter: The Precursor Legacy.
@@ -15,6 +15,6 @@ PAL and other retail versions are supported by OpenGOAL but untested with this m
 Installs separately from the original game. Other character mods are not supported.
 
 CREDITS
-Hector — skin and model adaptation.
-Naughty Dog / Sony — original characters and assets.
-OpenGOAL — PC port and tools.
+Hector: skin and model adaptation.
+Naughty Dog / Sony: original characters and assets.
+OpenGOAL: PC port and tools.

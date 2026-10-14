@@ -2,10 +2,11 @@
 
 Lore-accurate Dark Jak skin in the original TPL outfit.
 
-![Past Dark Jak](images/cover.png)
+![Past Dark Jak](images/github-cover.png)
 
-By **Hector**. Commissioned by Minimum-Chip-2166.
-Cosmetic only; no Dark Eco powers or transformation mechanics.
+By [hector.studio](https://hector.studio), commissioned by Minimum-Chip-2166.
+
+*Cosmetic only. No Dark Eco powers or transformation mechanics.*
 
 ## Installation
 
@@ -25,9 +26,9 @@ https://raw.githubusercontent.com/hectorlizard/past-dark-jak/main/mods.json
 
 ## Credits
 
-- Hector — skin and model adaptation.
-- Naughty Dog / Sony — original characters and assets.
-- OpenGOAL — PC port and tools.
+- Hector: skin and model adaptation.
+- Naughty Dog / Sony: original characters and assets.
+- OpenGOAL: PC port and tools.
 
 ## Building a bundle
 
