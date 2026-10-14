@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0.0",
+  "sourceName": "Hector",
+  "lastUpdated": "2026-10-14T18:00:00Z",
+  "mods": {
+    "past-dark-jak": {
+      "displayName": "Past Dark Jak",
+      "description": "Lore-accurate Dark Jak skin in the original TPL outfit.",
+      "authors": [
+        "Hector"
+      ],
+      "tags": [
+        "model-replacement",
+        "texture-mod"
+      ],
+      "supportedGames": [
+        "jak1"
+      ],
+      "websiteUrl": "https://github.com/hectorlizard/past-dark-jak",
+      "versions": [
+        {
+          "version": "0.2",
+          "publishedDate": "2026-10-14T18:00:00Z",
+          "assets": {
+            "windows": "https://github.com/hectorlizard/past-dark-jak/releases/download/v0.2/Past-Dark-Jak-0.2-windows.zip",
+            "linux": "https://github.com/hectorlizard/past-dark-jak/releases/download/v0.2/Past-Dark-Jak-0.2-linux.tar.gz",
+            "macos": "https://github.com/hectorlizard/past-dark-jak/releases/download/v0.2/Past-Dark-Jak-0.2-macos-intel.tar.gz"
+          },
+          "supportedGames": [
+            "jak1"
+          ],
+          "assetDownloadCounts": null
+        }
+      ],
+      "perGameConfig": null,
+      "coverArtUrl": "https://raw.githubusercontent.com/hectorlizard/past-dark-jak/main/images/cover.png",
+      "thumbnailArtUrl": "https://raw.githubusercontent.com/hectorlizard/past-dark-jak/main/images/thumbnail.png",
+      "externalLink": null
+    }
+  },
+  "texturePacks": {}
+}
